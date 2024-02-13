@@ -1,9 +1,9 @@
-# HACKTOBERFEST2021-CONTRIBUTION
+HACKTOBERFEST2021-CONTRIBUTION
 In this repo, you can contribute for hacktoberfest 2021, and in which you can add new files in C, C++, Pyhon and also modify the files.
 In modification, no spam pull requests will be allowed only valid pull requests will be allowed. You can add any simple programs, data structure programs or any programs which will help others in future.
 <br>**1.Spam pull requests are not allowed.
 <br>2.Modification or adding of programs are allowed.**
-# Rules for beginners:-
+Rules for beginners:-
 <br>1.Fork this repo
 <br>2.Clone it to you local machine by clicking on it. You can see it below:
 ![Screenshot 2021-10-02 170758](https://user-images.githubusercontent.com/80088029/135714415-1115ffde-b7ba-4119-8a27-4a020ce4cbef.jpg)
